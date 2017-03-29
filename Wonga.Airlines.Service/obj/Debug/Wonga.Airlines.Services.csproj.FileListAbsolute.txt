@@ -1,0 +1,9 @@
+H:\SampleProjects\Wonga.AirLines\Wonga.Airlines.Service\bin\Debug\Wonga.Airlines.Services.dll
+H:\SampleProjects\Wonga.AirLines\Wonga.Airlines.Service\bin\Debug\Wonga.Airlines.Services.pdb
+H:\SampleProjects\Wonga.AirLines\Wonga.Airlines.Service\bin\Debug\Wonga.Airlines.Business.dll
+H:\SampleProjects\Wonga.AirLines\Wonga.Airlines.Service\bin\Debug\Wonga.Airlines.Data.dll
+H:\SampleProjects\Wonga.AirLines\Wonga.Airlines.Service\bin\Debug\Wonga.Airlines.Business.pdb
+H:\SampleProjects\Wonga.AirLines\Wonga.Airlines.Service\bin\Debug\Wonga.Airlines.Data.pdb
+H:\SampleProjects\Wonga.AirLines\Wonga.Airlines.Service\obj\Debug\Wonga.Airlines.Services.csprojResolveAssemblyReference.cache
+H:\SampleProjects\Wonga.AirLines\Wonga.Airlines.Service\obj\Debug\Wonga.Airlines.Services.dll
+H:\SampleProjects\Wonga.AirLines\Wonga.Airlines.Service\obj\Debug\Wonga.Airlines.Services.pdb

@@ -1,0 +1,4 @@
+H:\SampleProjects\Wonga.AirLines\Wonga.Airlines.Service\bin\Debug\Wonga.Airlines.Service.dll
+H:\SampleProjects\Wonga.AirLines\Wonga.Airlines.Service\bin\Debug\Wonga.Airlines.Service.pdb
+H:\SampleProjects\Wonga.AirLines\Wonga.Airlines.Service\obj\Debug\Wonga.Airlines.Service.dll
+H:\SampleProjects\Wonga.AirLines\Wonga.Airlines.Service\obj\Debug\Wonga.Airlines.Service.pdb

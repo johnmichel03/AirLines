@@ -1,0 +1,68 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wonga.Airlines", "Wonga.AirLines\Wonga.Airlines.csproj", "{FBADFA0C-4C25-4542-BCD2-B2D2ABA1A779}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wonga.Airlines.Test", "Wonga.AirLines.Test\Wonga.Airlines.Test.csproj", "{F512FBF4-9480-44DB-8F2D-EA7FAB330424}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wonga.Airlines.Data", "Wonga.Airlines.Data\Wonga.Airlines.Data.csproj", "{4DB909CA-7560-4344-A933-E7BC665A89F0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{9420A8AC-1FE0-4704-AE83-9E9B62181132}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wonga.Airlines.Helper", "Wonga.Airlines.Helper\Wonga.Airlines.Helper.csproj", "{9D7AF02E-79EE-44A0-8665-8B52E0827105}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wonga.Airlines.Services", "Wonga.Airlines.Service\Wonga.Airlines.Services.csproj", "{50323A32-A37E-419E-A03C-F05B5700513A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wonga.Airlines.Business", "Wonga.Airlines.Business\Wonga.Airlines.Business.csproj", "{A4B28AE5-CDB4-4028-959F-3FD2757EA590}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wonga.Airlines.Common", "Wonga.Airlines.Common\Wonga.Airlines.Common.csproj", "{3A83EAAA-24FF-46D4-81C4-F76AAEDE58E3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "READ ME", "READ ME", "{4EAA476A-E5E5-47BA-A3E1-73445DF38F5A}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.txt = ReadMe.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBADFA0C-4C25-4542-BCD2-B2D2ABA1A779}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBADFA0C-4C25-4542-BCD2-B2D2ABA1A779}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBADFA0C-4C25-4542-BCD2-B2D2ABA1A779}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBADFA0C-4C25-4542-BCD2-B2D2ABA1A779}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F512FBF4-9480-44DB-8F2D-EA7FAB330424}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F512FBF4-9480-44DB-8F2D-EA7FAB330424}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F512FBF4-9480-44DB-8F2D-EA7FAB330424}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F512FBF4-9480-44DB-8F2D-EA7FAB330424}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DB909CA-7560-4344-A933-E7BC665A89F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DB909CA-7560-4344-A933-E7BC665A89F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DB909CA-7560-4344-A933-E7BC665A89F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DB909CA-7560-4344-A933-E7BC665A89F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D7AF02E-79EE-44A0-8665-8B52E0827105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D7AF02E-79EE-44A0-8665-8B52E0827105}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D7AF02E-79EE-44A0-8665-8B52E0827105}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D7AF02E-79EE-44A0-8665-8B52E0827105}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50323A32-A37E-419E-A03C-F05B5700513A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50323A32-A37E-419E-A03C-F05B5700513A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50323A32-A37E-419E-A03C-F05B5700513A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50323A32-A37E-419E-A03C-F05B5700513A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4B28AE5-CDB4-4028-959F-3FD2757EA590}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4B28AE5-CDB4-4028-959F-3FD2757EA590}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4B28AE5-CDB4-4028-959F-3FD2757EA590}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4B28AE5-CDB4-4028-959F-3FD2757EA590}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A83EAAA-24FF-46D4-81C4-F76AAEDE58E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A83EAAA-24FF-46D4-81C4-F76AAEDE58E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A83EAAA-24FF-46D4-81C4-F76AAEDE58E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A83EAAA-24FF-46D4-81C4-F76AAEDE58E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

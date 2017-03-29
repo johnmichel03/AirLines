@@ -1,0 +1,4 @@
+H:\SampleProjects\Wonga.AirLines\Wonga.Airlines.Helper\bin\Debug\Wonga.Airlines.Helper.dll
+H:\SampleProjects\Wonga.AirLines\Wonga.Airlines.Helper\bin\Debug\Wonga.Airlines.Helper.pdb
+H:\SampleProjects\Wonga.AirLines\Wonga.Airlines.Helper\obj\Debug\Wonga.Airlines.Helper.dll
+H:\SampleProjects\Wonga.AirLines\Wonga.Airlines.Helper\obj\Debug\Wonga.Airlines.Helper.pdb
